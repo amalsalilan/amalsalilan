@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal Salilan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **F1 Data Analysis**
+- 🔭 I’m currently working on **MotoGp Data Analysis**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
