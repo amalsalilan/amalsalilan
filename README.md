@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
-- 🔭 I’m currently working on [MotoGP Data Analysis](https://github.com/amalsalilan/which-nation-excels-in-the-MotoGP.git)
+- 🔭 I’m currently working on [Unicorn-Insights-A-Comprehensive-Data-Analysis-of-Unicorn-Companie](https://github.com/amalsalilan/Unicorn-Insights-A-Comprehensive-Data-Analysis-of-Unicorn-Companie.git)
 
 - 🌱 I’m currently learning **Visual Analytics**
 
