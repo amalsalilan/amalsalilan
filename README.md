@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal Salilan</h1>
 <h3 align="center">Unlocking the mysteries of data through curiosity and analysis as an aspiring data scientist</h3>
 
-- 🔭 I’m currently working on [Adidas retail strategy: An analysis of sales](https://www.kaggle.com/code/amalsalilan/adidas-retail-strategy-an-analysis-of-sales-chann)
+- 🔭 I’m currently working on [Telco Customer Churn](https://github.com/amalsalilan/ChurnModeling)
 
 - 🌱 I’m currently learning **Quantum computing**
 
