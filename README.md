@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal Salilan</h1>
 <h3 align="center">Unlocking the mysteries of data through curiosity and analysis as an aspiring data scientist</h3>
 
-- 🔭 I’m currently working on [Coffee Quality Modeling: R² Score of 0.9957 LR Coffee Quality Data (CQI May-2023)](https://www.kaggle.com/code/amalsalilan/coffee-quality-modeling-r-score-of-0-9957-lr?kernelSessionId=136206590)
+- 🔭 I’m currently working on [Shell.ai Hackathon 2023-Waste to energy](https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/)
 
 - 🌱 I’m currently learning **Quantum computing**
 
