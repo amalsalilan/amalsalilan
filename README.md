@@ -1,3 +1,4 @@
+![Amal Salilan](https://github.com/amalsalilan/-Shell.ai-Hackathon-2023-Waste-to-energy/assets/85513416/004b7f74-242c-4dea-aafc-5fb3df148987)
 
 <h1 align="center">Hi 👋, I'm Amal Salilan</h1>
 <h3 align="center">Unlocking the mysteries of data through curiosity and analysis as an aspiring data scientist</h3>
