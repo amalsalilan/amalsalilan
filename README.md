@@ -1,7 +1,4 @@
-`
 ![Amal Salilan for git](https://github.com/amalsalilan/amalsalilan/assets/85513416/8971b73f-933d-45e7-b24f-4e546c9bf23d)
-
-
 <h1 align="center">Hi 👋, I'm Amal Salilan</h1>
 <h3 align="center">Unlocking the mysteries of data through curiosity and analysis as an aspiring data scientist</h3>
 
