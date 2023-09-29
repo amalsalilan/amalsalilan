@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Shell.ai Hackathon 2023-Waste to energy](https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/)
 
-- 🌱 I’m currently learning **Quantum computing**
+- 🌱 I’m currently learning **Quantum computing **
 
 - 👯 I’m looking to collaborate on [Maximizing Your Accuracy in House Price Prediction](https://www.kaggle.com/code/amalsalilan/maximizing-your-accuracy-in-house-price-prediction)
 
