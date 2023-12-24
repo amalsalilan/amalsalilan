@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/amalsalilan/](https://www.linkedin.com/in/amalsalilan/)
 
-- ⚡ Fun fact **Amateurs wait for inspiration. The real pros get up and go to work.**
+- ⚡ Fun fact ** Amateurs wait for inspiration. The real pros get up and go to work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
