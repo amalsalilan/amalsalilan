@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Amal Salilan</h1>
 <h3 align="center">Unlocking the mysteries of data through curiosity and analysis as an aspiring data scientist</h3>
 
-- 🔭 I’m currently working on [Shell.ai Hackathon 2023-Waste to energy](https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/)
+- 🔭 I’m currently working on [Shell.ai Hackathon 2024-Waste to energy](https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/)
 
-- 🌱 I’m currently learning **Quantum computing **
-
-- 👯 I’m looking to collaborate on [Maximizing Your Accuracy in House Price Prediction](https://www.kaggle.com/code/amalsalilan/maximizing-your-accuracy-in-house-price-prediction)
+- 🌱 I’m currently learning *Quantum computing *
 
 - 👨‍💻 All of my projects are available at [https://github.com/amalsalilan?tab=repositories](https://github.com/amalsalilan?tab=repositories)
 
