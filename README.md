@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amal Salilan</h1>
 <h3 align="center">Unlocking the mysteries of data through curiosity and analysis as an aspiring data scientist</h3>
 
-- 🔭 I’m currently working on [Shell.ai Hackathon 2024-Waste to energy](https://www.hackerearth.com/challenges/new/competitive/shellai-hackathon-2023/)
+- 🔭 I’m currently working on --------------
 
 - 🌱 I’m currently learning *Quantum computing *
 
